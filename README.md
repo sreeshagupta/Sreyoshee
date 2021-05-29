@@ -1,3 +1,3 @@
 # Sreyoshee
 
-# https://subhayandas08.github.io/Sreyoshee/
+#  https://sreeshagupta.github.io/Sreyoshee/
