@@ -2,8 +2,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Lobster|Open+Sans:300,400,600,700,800");
 
-
-
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
 		padding: 0;
@@ -3463,7 +3461,7 @@
 		-webkit-overflow-scrolling: touch;
 		background: #f64242;
 		box-shadow: none;
-		color: #ffffff;
+		color: #f1e3e3;
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
@@ -3513,7 +3511,7 @@
 			-webkit-transition: color 0.2s ease-in-out;
 			-ms-transition: color 0.2s ease-in-out;
 			transition: color 0.2s ease-in-out;
-			-webkit-tap-highlight-color: transparent;
+			-webkit-tap-highlight-color:transparent;
 			border: 0;
 			color: #fbb5b5;
 			cursor: pointer;
@@ -3530,6 +3528,7 @@
 		}
 
 			#menu .close:before {
+				
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
 				font-family: FontAwesome;
@@ -3560,7 +3559,7 @@
 			-webkit-transform: translateX(0);
 			-ms-transform: translateX(0);
 			transform: translateX(0);
-			box-shadow: 0 0 1.5em 0 rgba(0, 0, 0, 0.2);
+			box-shadow: 0 0 1.5em 0 rgba(233, 236, 10, 0.2);
 			visibility: visible;
 		}
 
